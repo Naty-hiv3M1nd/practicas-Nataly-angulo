@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Maleha Slant';
+    src: url('Maleha-Slant.woff2') format('woff2'),
+        url('Maleha-Slant.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maleha';
+    src: url('Maleha-Regular.woff2') format('woff2'),
+        url('Maleha-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

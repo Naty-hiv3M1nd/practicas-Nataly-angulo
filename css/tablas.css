@@ -1,0 +1,26 @@
+/*Documento css*/
+{margin: 0%;}
+
+ .cabecera {margin-bottom: 32px;}
+
+ h1 {font-family: "Jacquard 12", system-ui;}
+
+
+
+ body {font-family: "Handjet", sans-serif;}
+
+ .tablas {margin-bottom: 32px;
+    min-height: 1px;
+    background-color: rgb(157, 34, 34);
+    padding: 16px 0px 16px 0px;}
+
+div.tablas {background-color: rgb(116, 116, 158);
+margin-bottom: 300px;}    
+
+.tablas table {margin: auto;}
+
+
+
+
+
+.cambiar-tamaño{font-size: 50px;}

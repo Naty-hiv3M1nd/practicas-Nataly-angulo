@@ -1,0 +1,32 @@
+
+*{margin: 0%;}
+img {width: 200px;
+border-radius: 50%;}
+
+h1 {color: aliceblue;
+    background-color: rgb(72, 11, 146);
+    text-align: center;}
+
+    h3{padding: 8px 0px;
+    text-align: center;}
+
+    h4 {font-family: 'Times New Roman', Times, serif;color: rgb(44, 19, 103); font-weight: lighter;}
+
+        li{font-family: 'Times New Roman', Times, serif;font-weight: bolder;color: rgb(0, 0, 0);}
+    /*LAYOUT*/
+    
+    .cabecera {padding: 16px 0px 16px 0px;
+    background-color: rgb(171, 161, 209);}
+    
+    .listas {margin: 16px 16px 16px 16px;
+        padding: 16PX;
+        width: 70%;
+        background-color:rgb(161, 124, 214);} 
+    
+    .contenido {width: 70%;
+    margin: 16px auto;}
+    
+    .contenido p {line-height: 140%;
+    padding: 16px 0px;}
+    
+    .display {color: rgb(44, 19, 103);}

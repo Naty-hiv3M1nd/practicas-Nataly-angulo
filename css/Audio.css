@@ -1,0 +1,38 @@
+/*Document CSS*/
+
+h1 {font-family: "Jacquard 12", system-ui;
+    text-align: center;
+    font-size: 6em;
+    color: #0f4312;}
+
+h2 {font-family: "Handjet", sans-serif;
+    color: #0f4312;
+    background-color:#76b779;
+    text-align: center;font-size: 2em;}
+
+.videos {background-color: #76b779;
+    width: 100%;
+    min-height: 350px;
+    margin: 16px auto 200px auto;
+    display:flex;}
+
+.videos div{width: 50%;}
+
+.videos iframe {width: 80%;
+    height: 300px;}
+
+.videos iframe, .videos video {iju}
+
+.cabecera {background-color: #76b779;}
+
+.pie {background-color: darkgreen;}
+
+.musica {background-color: #0f4312;
+     width: 80%;
+     margin: 16px auto;
+    padding-top: 16px;}
+
+.musica audio{ display: block;
+    margin: auto;
+    padding-bottom: 16px;}
+
