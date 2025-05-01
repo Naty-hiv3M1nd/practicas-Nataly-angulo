@@ -17,23 +17,37 @@ body {
     width: 60%;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
+    border-radius: 10px; margin-top: 60px;}
+
+.descripcion {
+    font-size: 12px;
 }
 
 /* Encabezado */
 header {
+    
     text-align: center;
     padding-bottom: 20px;
 }
 
+img {
+    max-width: 20%;
+    height: auto;
+  }
+
+.nave {
+    color:#333333; font-size: 15px;
+
+
+}
+
 header h1 {
-    margin: 0;
-    color: #007bff;
+    color: #51fd26 ;
 }
 
 header p {
     font-size: 1.2em;
-    color: #555;
+    color: #333333;
 }
 
 /* Secciones */
@@ -42,9 +56,9 @@ section {
 }
 
 h2 {
-    border-bottom: 2px solid #007bff;
+    border-bottom: 2px solid #51fd26;
     padding-bottom: 5px;
-    color: #007bff;
+    color: #51fd26;
 }
 
 /* Experiencia laboral */
@@ -59,8 +73,8 @@ h2 {
 }
 
 .habilidades li {
-    background: #007bff;
-    color: white;
+    background: #51fd26;
+    color: rgb(0, 0, 0);
     display: inline-block;
     padding: 5px 10px;
     border-radius: 5px;
@@ -74,6 +88,6 @@ footer {
 }
 
 footer a {
-    color: #007bff;
+    color: #51fd26;
     text-decoration: none;
 }
